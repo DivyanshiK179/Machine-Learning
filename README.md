@@ -1,10 +1,6 @@
 # 🚀 Machine Learning Internship Journey
 
 <p align="center">
-  <img src="Assets/banner.png" width="100%" alt="Machine Learning Internship Banner">
-</p>
-
-<p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
@@ -59,30 +55,19 @@ During this internship, my objectives were to:
 
 ---
 
-# 🗂 Repository Structure
+## 📁 Repository Overview
 
-Machine-Learning/
-│
-├── 01_Python/
-│
-├── 02_Python_Libraries/
-│
-├── 03_Applied_Statistics/
-│
-├── 04_Data_Preprocessing/
-│
-├── 05_Supervised_Learning/
-│
-├── 06_Unsupervised_Learning/
-│
-├── 07_Deep_Learning/
-│
-├── 08_Assignments/
-│
-├── Project/
-│      ├── KAALVYUH_NEO_Predictor/
-│
-└── README.md
+| Folder | Description |
+|---------|-------------|
+| 🐍 **01_Python** | Python fundamentals including syntax, control flow, functions, OOP, and exception handling. |
+| 📚 **02_Python Libraries** | Hands-on practice with NumPy, Pandas, Matplotlib, Seaborn, and SciPy. |
+| 📊 **03_Applied Statistics** | Statistical concepts required for Machine Learning including hypothesis testing and probability distributions. |
+| 🧹 **04_Data Preprocessing** | Data cleaning, feature engineering, encoding, scaling, PCA, and preprocessing techniques. |
+| 🤖 **05_Supervised Learning** | Regression and classification algorithms with implementation and evaluation. |
+| 🔍 **06_Unsupervised Learning** | Clustering techniques and unsupervised learning concepts. |
+| 🧠 **07_Deep Learning** | Fundamentals of neural networks and perceptron implementation. |
+| 📝 **08_Assignments** | Internship assignments, worksheets, and practice exercises. |
+| 🚀 **09_Project** | End-to-end Machine Learning project: **KAALVYUH – NASA NEO Hazard Prediction System**. |
 
 ---
 
@@ -345,8 +330,6 @@ Streamlit Deployment
 
 # 💡 Key Learnings
 
-# 💡 Key Learnings
-
 Throughout this internship, I learned that:
 
 - Data preprocessing is one of the most critical steps in any Machine Learning pipeline.
@@ -486,7 +469,3 @@ If you found this repository helpful, please consider giving it a **⭐ Star**.
 It motivates me to continue building impactful Machine Learning, AI, and Software Engineering projects.
 
 ---
-
-<p align="center">
-Made with ❤️, curiosity, and countless cups of coffee ☕ during my Machine Learning Internship.
-</p>

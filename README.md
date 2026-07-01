@@ -55,30 +55,19 @@ During this internship, my objectives were to:
 
 ---
 
-# 🗂 Repository Structure
+## 📁 Repository Overview
 
-Machine-Learning/
-│
-├── 01_Python/
-│
-├── 02_Python_Libraries/
-│
-├── 03_Applied_Statistics/
-│
-├── 04_Data_Preprocessing/
-│
-├── 05_Supervised_Learning/
-│
-├── 06_Unsupervised_Learning/
-│
-├── 07_Deep_Learning/
-│
-├── 08_Assignments/
-│
-├── Project/
-│      ├── KAALVYUH_NEO_Predictor/
-│
-└── README.md
+| Folder | Description |
+|---------|-------------|
+| 🐍 **01_Python** | Python fundamentals including syntax, control flow, functions, OOP, and exception handling. |
+| 📚 **02_Python Libraries** | Hands-on practice with NumPy, Pandas, Matplotlib, Seaborn, and SciPy. |
+| 📊 **03_Applied Statistics** | Statistical concepts required for Machine Learning including hypothesis testing and probability distributions. |
+| 🧹 **04_Data Preprocessing** | Data cleaning, feature engineering, encoding, scaling, PCA, and preprocessing techniques. |
+| 🤖 **05_Supervised Learning** | Regression and classification algorithms with implementation and evaluation. |
+| 🔍 **06_Unsupervised Learning** | Clustering techniques and unsupervised learning concepts. |
+| 🧠 **07_Deep Learning** | Fundamentals of neural networks and perceptron implementation. |
+| 📝 **08_Assignments** | Internship assignments, worksheets, and practice exercises. |
+| 🚀 **09_Project** | End-to-end Machine Learning project: **KAALVYUH – NASA NEO Hazard Prediction System**. |
 
 ---
 

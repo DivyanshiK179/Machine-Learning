@@ -345,8 +345,6 @@ Streamlit Deployment
 
 # 💡 Key Learnings
 
-# 💡 Key Learnings
-
 Throughout this internship, I learned that:
 
 - Data preprocessing is one of the most critical steps in any Machine Learning pipeline.

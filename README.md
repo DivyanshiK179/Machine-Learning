@@ -484,7 +484,3 @@ If you found this repository helpful, please consider giving it a **⭐ Star**.
 It motivates me to continue building impactful Machine Learning, AI, and Software Engineering projects.
 
 ---
-
-<p align="center">
-Made with ❤️, curiosity, and countless cups of coffee ☕ during my Machine Learning Internship.
-</p>

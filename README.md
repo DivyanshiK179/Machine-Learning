@@ -1,10 +1,6 @@
 # 🚀 Machine Learning Internship Journey
 
 <p align="center">
-  <img src="Assets/banner.png" width="100%" alt="Machine Learning Internship Banner">
-</p>
-
-<p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)

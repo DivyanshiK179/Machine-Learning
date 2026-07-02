@@ -251,6 +251,7 @@ This Machine Learning project predicts whether a Near Earth Object (NEO) is haza
 
 ## Project Workflow
 
+```
 Dataset
    │
    ▼
@@ -282,6 +283,7 @@ Model Serialization
    │
    ▼
 Streamlit Deployment
+```
 
 ---
 

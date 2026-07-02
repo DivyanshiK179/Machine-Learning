@@ -382,6 +382,7 @@ During this internship, I gained practical experience in:
 
 # 🔄 Machine Learning Workflow
 
+```
 Problem Definition
         │
         ▼
@@ -407,6 +408,7 @@ Evaluation
         │
         ▼
 Deployment
+```
 
 ---
 
